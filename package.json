@@ -1,0 +1,11 @@
+{
+  "name": "express-todo-app",
+  "version": "1.0.0",
+  "description": "A Basic ToDo Application using Express.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Fabrício da Cunha Santos",
+  "license": "MIT"
+}
